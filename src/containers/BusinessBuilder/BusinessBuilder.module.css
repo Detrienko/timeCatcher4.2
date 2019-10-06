@@ -1,0 +1,32 @@
+
+.mainDisplayWrapper{
+	width: 80%;
+	margin-left: 20%;
+	display: inline-block;
+	text-align: center;
+}
+
+.timers{
+	display: block;
+}
+
+.timerWrapper{
+	display: inline-block;
+}
+
+.switchBtnWrapper{
+	display: inline-block;
+	position: absolute;
+	top: 11.2rem;
+	transform: translateX(2rem);
+}
+
+.switchBtn{
+	background-color: #202b33;
+	border: solid 1px transparent;
+	border-radius: 4px;
+	padding: 10px 20px;
+	color: #ffffff;
+	font-size: 16px;
+	cursor: pointer;
+}

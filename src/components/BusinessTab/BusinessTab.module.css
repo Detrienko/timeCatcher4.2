@@ -1,0 +1,14 @@
+.businessTab{
+	cursor: default;
+	margin-top: 1rem;
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+}
+
+.businessTab:first-child{
+	margin-top: 1.5rem;
+}
+
+.businessTab:hover{
+	background: #333333;
+}

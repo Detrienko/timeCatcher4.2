@@ -1,0 +1,21 @@
+.stopwatch{
+	font-family: Helvetica, sans-serif;
+	background-color: rgb(34, 34, 34);
+	color: #FFF;
+	border-radius: 4px;
+	padding: 20px;
+	width: 250px;
+	background-color: rgb(22, 27, 31);
+	box-shadow: 0 3px 6px rgb(12, 12, 12);
+	display: inline-block;
+}
+
+.stopwatchHeader{
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.stopwatchTime{
+  font-size: 34px;
+  margin: 5px 0;
+}

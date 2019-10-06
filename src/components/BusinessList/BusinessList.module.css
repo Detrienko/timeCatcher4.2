@@ -1,0 +1,18 @@
+.businessListWrapper{
+	position: absolute;
+	text-align: center;
+	width: 20%;
+	height: 100%;
+	color: #fff;
+	background: #030201;
+}
+
+.createBusinessBtn{
+	background: none;
+	border: none;
+	color: #FFF;
+}
+
+.addBusinessIcon{
+	width: 19px;
+}
